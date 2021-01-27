@@ -26,9 +26,9 @@ Hitting the ball towards the flag located on the green in minimal shots is the g
 * With the right hand, grasp the club and overlap your left thumb.
   
 ### 5. Swinging the club  
-![Golf Swing](https://media.giphy.com/media/l2SqdN3BeFQzEG9Dq/giphy.gif)  
+![Golf Swing](https://media.giphy.com/media/l2SqdN3BeFQzEG9Dq/giphy.gif)    
+![Caution Image](caution.png) **Make sure all persons are behind you and a few feet away.**  
 **Note:** take practice swings before hitting the golf ball.  
-![Caution Image](caution.png) **Make sure all persons are behind you and a few feet away.**
 * Place the head of the club adjacent to the ball without touching it.
 * Spread legs about shoulder width apart and stand a comfortable distance from the ball.
 * With uniform speed and control, bring the club in an arc motion above the head and then down upon the ball.
@@ -61,5 +61,5 @@ Hitting the ball towards the flag located on the green in minimal shots is the g
 ### 10. Finishing the hole  
 * Grab the ball out of the hole.
 * move off the green and follow the cart path to the next hole.
-* repeat steps 1-10 until your wife calls.
+* repeat steps 1-10 until your wife calls.  
 ![Tiger Woods GIF](https://media.giphy.com/media/QgkpTdk9UjsfpHqIVL/giphy.gif)
