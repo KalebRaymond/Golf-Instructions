@@ -26,7 +26,7 @@ Hitting the ball towards the flag located on the green in minimal shots is the g
 * With the right hand, grasp the club and overlap your left thumb.
   
 ### 5. Swinging the club  
-![Golf Swing](https://media.giphy.com/media/l2SqdN3BeFQzEG9Dq/giphy.gif)
+![Golf Swing](https://media.giphy.com/media/l2SqdN3BeFQzEG9Dq/giphy.gif)  
 **Note:** take practice swings before hitting the golf ball.  
 ![Caution Image](caution.png) **Make sure all persons are behind you and a few feet away.**
 * Place the head of the club adjacent to the ball without touching it.
@@ -51,7 +51,7 @@ Hitting the ball towards the flag located on the green in minimal shots is the g
 * repeat step 4, 5, 6, 7, and 8 until the ball is on the green.
   
 ### 9. Putting
-![Putting](https://media.giphy.com/media/Y4tJBf9nTLKZi2ASAG/giphy.gif)
+![Putting](https://media.giphy.com/media/Y4tJBf9nTLKZi2ASAG/giphy.gif)  
 * Pull out the putter from your bag.
 * Get low and note the slope of the green and predict the break of the golf ball accordingly.
 * Stand up and place the head of the putter next to the ball, aim toward the hole.
