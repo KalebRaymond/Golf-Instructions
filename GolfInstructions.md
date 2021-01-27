@@ -1,7 +1,7 @@
 # Introduction  
 Below are the instructions for playing a hole of golf. No prior golf knowledge is required.  
 # Theory  
-From tee shot to green, hitting the ball towards the flag located on the green is the goal.  
+Hitting the ball towards the flag located on the green in the least shots is the goal.  
 # Warnings ![Caution Image](caution.png)  
 Flying projectiles and swinging clubs can cause serious or fatal injury.  
 # Steps  
