@@ -3,7 +3,7 @@ Below are the instructions for playing a hole of golf. No prior golf knowledge i
 # Theory  
 Hitting the ball towards the flag located on the green in minimal shots is the goal.  
 # Warnings ![Caution Image](caution.png)  
-Flying projectiles and swinging clubs can cause serious or fatal injury.  
+**Flying projectiles and swinging clubs can cause serious or fatal injury.** 
 # Steps  
   
 ### 1. Tee shot club selection  
@@ -27,7 +27,7 @@ Flying projectiles and swinging clubs can cause serious or fatal injury.
   
 ### 5. Swinging the club  
 **Note:** take practice swings before hitting the golf ball.  
-![Caution Image](caution.png) Warning! make sure all persons are behind you and a few feet away.
+![Caution Image](caution.png) **Make sure all persons are behind you and a few feet away.**
 * Place the head of the club adjacent to the ball without touching it.
 * Spread legs about shoulder width apart and stand a comfortable distance from the ball.
 * With uniform speed and control, bring the club in an arc motion above the head and then down upon the ball.
