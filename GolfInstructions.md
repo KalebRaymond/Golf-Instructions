@@ -2,8 +2,8 @@
 Below are the instructions for playing a hole of golf. No prior golf knowledge is required.  
 # Theory  
 From tee shot to green, hitting the ball towards the flag located on the green is the goal.  
-# Warnings  
-![Caution Image](caution.png) Warning! flying projectiles and swinging clubs can cause serious or fatal injury.  
+# Warnings ![Caution Image](caution.png)  
+Flying projectiles and swinging clubs can cause serious or fatal injury.  
 # Steps  
   
 ### 1. Tee shot club selection  
@@ -11,7 +11,7 @@ From tee shot to green, hitting the ball towards the flag located on the green i
 * For holes with a par 4 or greater, select the driver. (Skip to step 8 for a par 3)
   
 ### 2. Determine order of tee shots  
-**note:** if playing alone, skip this step
+**Note:** if playing alone, skip this step
 * Stand in a circle and flip a tee if this is the first hole. Whoever the tee points to will take the first shot. Repeat this step until the order is set.
 * If the hole number is greater than 1, the player who scored the lowest on the last hole goes first.
   
@@ -21,12 +21,12 @@ From tee shot to green, hitting the ball towards the flag located on the green i
 * Balance the golf ball on top of the level tee.
   
 ### 4. Grasping the club  
-**note:** left handed players should replace *"right hand"* with *"left hand"*
+**Note:** left handed players should replace *"right hand"* with *"left hand"*
 * Grab the club with only the left hand, extending the thumb along the shaft and resting the palm as close to the back end as possible.
 * With the right hand, grasp the club and overlap your left thumb.
   
 ### 5. Swinging the club  
-**note:** take practice swings before hitting the golf ball.
+**Note:** take practice swings before hitting the golf ball.  
 ![Caution Image](caution.png) Warning! make sure all persons are behind you and a few feet away.
 * Place the head of the club adjacent to the ball without touching it.
 * Spread legs about shoulder width apart and stand a comfortable distance from the ball.
@@ -34,7 +34,7 @@ From tee shot to green, hitting the ball towards the flag located on the green i
 * Once contact is made with the ball, make sure to follow through with the club head.
   
 ### 6. Watching the ball  
-**note:** Sunglasses can help locating the flight of the golf ball.
+**Note:** Sunglasses can help locating the flight of the golf ball.
 * After hitting the ball, pick your head up and look against the sky for the ball, following its flight.
 * Take note of where the ball landed.
   
@@ -43,7 +43,7 @@ From tee shot to green, hitting the ball towards the flag located on the green i
 * Search for the ball until it is located.
   
 ### 8. Approach shot club selection  
-**note:** effective club choices may vary per individual.
+**Note:** effective club choices may vary per individual.
 * Measure or estimate the distance of the golf ball to the flag.
 * Choose a pitching wedge, sand wedge, or higher degree club for a distance of 75 yards or less. Else, choose a numbered iron (lower irons for longer distances).
 * Pull the club out of the bag.
