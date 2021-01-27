@@ -1,5 +1,5 @@
 # Introduction  
-Below are the instructions for playing a hole of golf. No prior golf knowledge is required.  
+Did your boss just ask you to take some clients out on the links? Are you worried of making a fool of yourself out on the course? Below are the instructions for playing a hole of golf. No prior golf knowledge is required.  
 # Theory  
 Hitting the ball towards the flag located on the green in minimal shots is the goal.  
 # Warnings ![Caution Image](caution.png)  
